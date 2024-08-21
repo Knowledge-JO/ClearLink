@@ -8,14 +8,14 @@ import Trial from "./Trial"
 function App() {
   return (
     <>
-      <div className="xl:hidden min-h-screen flex justify-center items-center">
+      <div className="xl:hidden flex justify-center mt-10 overflow-y-hidden">
         <div className="bg-[url('/src/assets/Background-pattern.png')] bg-no-repeat bg-center bg-cover">
           <img
             src="/mobile.webp"
             alt=""
             className="shadow-xl rounded-xl mb-3"
           />
-          <p className="text-center text-gray-700 font-bold">
+          <p className="text-center text-sm text-gray-700 font-bold">
             Please visit us on a desktop or laptop
           </p>
         </div>
