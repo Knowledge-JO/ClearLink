@@ -16,7 +16,7 @@ function App() {
             className="shadow-xl rounded-xl mb-3"
           />
           <p className="text-center text-gray-700 font-bold">
-            Please visit the site on a desktop
+            Please visit us on a desktop or laptop
           </p>
         </div>
       </div>
